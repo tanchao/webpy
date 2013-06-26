@@ -1,0 +1,18 @@
+Welcome.
+
+This will be my source of webpy learning.
+
+h3. simple_webpy
+it was created with the tutor, will do nothing more.
+
+h3. blog_weby
+it was created with "blog":http://webpy.org/src/blog/0.3, i will try to add session control to three type of users:
+* admin, all rights
+* author, rights with his own blogs
+* guest, view rights only 
+
+"ref  @webpy":http://webpy.org/cookbook/userauthpgsql
+"ref @github":https://github.com/andrewnelder/web.py-user-management
+"ref @stackof":http://stackoverflow.com/questions/9134553/web-py-todo-list-with-login
+
+2013-06-26
